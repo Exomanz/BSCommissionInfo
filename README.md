@@ -4,7 +4,7 @@ You can find all of my commission information, pricing, and terms in this reposi
 ## Introduction
 Hey guys! I'm Exomanz (Exo), and I make PC mods that mostly centralize around adding more customization to your Beat Saber experience. I've been modding since late 2020.
 
-I'm a college student and am currently studying Computer and Network Administration; development may stagnate at times because my schoolwork always comes first. 
+I'm a college student and am currently studying Computer Support and Network Administration; development may stagnate at times because my schoolwork always comes first. 
 
 ## Notable Projects
 - [UITweaks](https://github.com/Exomanz/UITweaks) - Spice up your in-game HUD with some color, featuring a highly extensive configuration system.
