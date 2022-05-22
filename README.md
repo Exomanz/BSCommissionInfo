@@ -4,9 +4,9 @@ You can find all of my commission information, pricing, and terms in this reposi
 ## Introduction
 Hey guys! I'm Exomanz (Exo), and I make PC mods that mostly centralize around adding more customization to your Beat Saber experience. I've been modding since late 2020.
 
-I'm a college student and am currently studying Computer and Network support. Development may stagnate at times because my school work always comes first. 
+I'm a college student and am currently studying Computer and Network Administration; development may stagnate at times because my schoolwork always comes first. 
 
-## Selected Works
+## Notable Projects
 - [UITweaks](https://github.com/Exomanz/UITweaks) - Spice up your in-game HUD with some color, featuring a highly extensive configuration system.
 - [MenuSaberColors](https://github.com/Exomanz/MenuSaberColors) - A PC port of im-henri's QonsistentSaberColors for Quest, which allows your menu pointers to be the same color as your in-game sabers! 
 - [BetterStaticLights](https://github.com/Exomanz/BetterStaticLights) - Beat Saber mod that lets you choose which lights you want active when "Static Lights" is on. 
